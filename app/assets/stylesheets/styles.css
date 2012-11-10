@@ -534,7 +534,7 @@ a.connect_to_facebook:active {
 	background-color: #e1e1e1; 
 	float: left;
 	-webkit-border-top-right-radius: 10px;
-	-moz-border-radius-topright:: 10px;
+	-moz-border-radius-topright: 10px;
 	border-top-right-radius: 10px;
 	-webkit-border-bottom-right-radius: 10px;
 	-moz-border-radius-bottomright: 10px;
@@ -554,7 +554,7 @@ a.connect_to_facebook:active {
 	float: right;
 	text-align: right;
 	-webkit-border-top-left-radius: 10px;
-	-moz-border-radius-topleft:: 10px;
+	-moz-border-radius-topleft: 10px;
 	border-top-right-radius: 10px;
 	-webkit-border-bottom-left-radius: 10px;
 	-moz-border-radius-bottomleft: 10px;
@@ -594,7 +594,7 @@ a.connect_to_facebook:active {
 
 	float: left;
 	-webkit-border-top-right-radius: 10px;
-	-moz-border-radius-topright:: 10px;
+	-moz-border-radius-topright: 10px;
 	border-top-right-radius: 10px;
 	-webkit-border-bottom-right-radius: 10px;
 	-moz-border-radius-bottomright: 10px;
